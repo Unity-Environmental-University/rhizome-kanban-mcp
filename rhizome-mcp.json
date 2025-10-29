@@ -1,0 +1,7 @@
+{
+  "name": "kanban-board",
+  "config": {
+    "cmd": ["./bin/kanban-mcp"],
+    "cmd_mode": "stdin"
+  }
+}

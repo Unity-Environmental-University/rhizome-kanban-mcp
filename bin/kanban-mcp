@@ -1,0 +1,8 @@
+#!/usr/bin/env python3
+"""Thin launcher so MCP clients can exec a single binary."""
+
+from kanban_mcp.mcp_server import main
+
+
+if __name__ == "__main__":
+    main()
